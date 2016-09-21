@@ -45,8 +45,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\scripts\MenuWindow.cs" />
      <Compile Include="Assets\scripts\rotation.cs" />
-     <Compile Include="Assets\scripts\speed.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
